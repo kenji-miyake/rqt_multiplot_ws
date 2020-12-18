@@ -1,0 +1,9 @@
+repositories:
+  variant:
+    type: git
+    url: git@github.com:ANYbotics/variant.git
+    version: master
+  rqt_multiplot_plugin:
+    type: git
+    url: git@github.com:kenji-miyake/rqt_multiplot_plugin.git
+    version: use-relative-receipt-time
